@@ -1,0 +1,5 @@
+The number of students: 5
+[Lmonmouth.edu.student.Student;@15db9742[Lmonmouth.edu.student.Student;@15db9742[Lmonmouth.edu.student.Student;@15db9742[Lmonmouth.edu.student.Student;@15db9742[Lmonmouth.edu.student.Student;@15db9742Student [name=John, age=18, id=100]
+Student [name=Jane, age=19, id=101]
+Exception in thread "main" java.lang.NullPointerException
+	at monmouth.edu.student.Lab1A.main(Lab1A.java:50)

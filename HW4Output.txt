@@ -1,0 +1,29 @@
+Successfully added book to HashSet: 120, $29.99, The Lord of the Rings, Hardback
+Successfully added book to HashSet: 156, $19.99, And Then There Were None, Softback
+Successfully added book to HashSet: 212, $32.50, The Hobbit, Hardback
+Error creating Book object from line 'Harry Potter and the Goblet of Fire,ELECTRONIC,-9,19.99': null
+Successfully added book to HashSet: 253, $25.00, The Da Vinci Code, Hardback
+Successfully added book to HashSet: 156, $19.99, And Then There Were None, Softback
+Error creating Book object from line 'Harry Potter and the Prisoner of Azkaban,HARDBACK,546,-99.00': null
+Successfully added book to HashSet: 439, $19.99, Harry Potter and the Half-Blood Prince, 
+Successfully added book to HashSet: 156, $39.99, And Then There Were None, Hardback
+Successfully added book to HashSet: 439, $19.99, Harry Potter and the Half-Blood Prince, 
+Successfully added book to HashSet: 156, $39.99, And Then There Were None, Hardback
+Successfully added book to HashSet: 829, $23.95, The Soloman Curse, Hardback
+Error creating Book object from line ',HARDBACK,92,22.99': null
+Successfully added book to HashSet: 320, $16.20, American Sniper, Hardback
+Successfully added book to HashSet: 391, $23.87, The Girl on the Train, Softback
+156, $19.99, And Then There Were None, Softback
+212, $32.50, The Hobbit, Hardback
+156, $39.99, And Then There Were None, Hardback
+156, $19.99, And Then There Were None, Softback
+253, $25.00, The Da Vinci Code, Hardback
+320, $16.20, American Sniper, Hardback
+439, $19.99, Harry Potter and the Half-Blood Prince, 
+439, $19.99, Harry Potter and the Half-Blood Prince, 
+120, $29.99, The Lord of the Rings, Hardback
+156, $39.99, And Then There Were None, Hardback
+829, $23.95, The Soloman Curse, Hardback
+391, $23.87, The Girl on the Train, Softback
+829, $23.95, The Soloman Curse, HardbackDoes not exist in bookSet
+629, $87.00, The BigBang Theory, HardbackDoes not exist in bookSet
